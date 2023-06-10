@@ -1,0 +1,11 @@
+6330,ICSI,333,System Fundamentals,Undergraduate
+6463,ICSI,213,Data Structures,Undergraduate
+4452,AMAT,113,Calculus II,Undergraduate
+6923,AMAT,100,Precalculus Mathematics,Undergraduate
+7415,APHY,509,Programming in Physics,Graduate
+4715,APHY,551,Bayesian Data Analysis,Graduate
+5585,AMAT,112,Calculus I,Undergraduate
+3856,ICSI,201,Introduction to Computer Science, Undergraduate
+3862,ICSI,210,Discrete Structures,Undergraduate
+9489,ICSI,500,Operating Systems,Graduate
+7300,ABIO,328,Invertebrate Ecology Laboratory,Undergraduate
